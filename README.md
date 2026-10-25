@@ -1,6 +1,6 @@
 <!-- ========== HEADER ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=200&section=header&text=Vaibhav%20Mohite&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=From%20Helpdesk%20to%20Cloud%20and%20DevOps&descSize=20&descAlignY=60" alt="Vaibhav Mohite" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=200&section=header&text=Vaibhav%20Mohite&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=From%20System%20Admin%20to%20Cloud%20and%20DevOps&descSize=20&descAlignY=60" alt="Vaibhav Mohite" />
 </p>
 
 <p align="center">
