@@ -1,6 +1,6 @@
 <!-- ========== HEADER ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a7f37,100:2ea043&height=230&section=header&text=Vaibhav%20Mohite&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=From%20Helpdesk%20to%20Cloud%20%26%20DevOps&descSize=20&descAlignY=62" alt="Vaibhav Mohite" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=200&section=header&text=Vaibhav%20Mohite&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=From%20Helpdesk%20to%20Cloud%20and%20DevOps&descSize=20&descAlignY=60" alt="Vaibhav Mohite" />
 </p>
 
 <p align="center">
@@ -81,10 +81,10 @@ I'm building on a real operations foundation: I already know what breaks in prod
 |:---:|---|
 | ✅ | Cloud fundamentals: Google Cloud, AWS Academy, Oracle Cloud |
 | ✅ | Linux fundamentals (Linux Foundation LFS101) |
+| ✅ | Terraform and infrastructure as code |
+| ✅ | Git and CI/CD pipelines |
+| ✅ | AWS hands-on projects |
 | 🔄 | Docker and containers |
-| 🔄 | Terraform and infrastructure as code |
-| 🔄 | Git and CI/CD pipelines |
-| 🔄 | AWS hands-on projects |
 | ⏳ | Kubernetes |
 | ⏳ | AWS Solutions Architect Associate |
 | ⏳ | Azure Administrator (AZ-104) |
